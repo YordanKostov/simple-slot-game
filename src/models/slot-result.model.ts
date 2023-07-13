@@ -1,5 +1,5 @@
 export default interface SlotResult {
-    reels: number[][];
-    symbols: number[][];
-    linesPayout: number[];
+  reels: number[][];
+  symbols: number[][];
+  linesPayout: number[];
 }
